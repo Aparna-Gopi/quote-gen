@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  font-family: Geneva;
+  font-style: italic;
+  background-color: lavender;
+}
+
+.quote-box {
+  margin-right: 3%;
+  margin-left: 3%;
+  border: 3px groove grey;
+}
+
+div.container {
+  width: 45%;
+  height: 15%;
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin-top: 5%;
+}
+
+p {
+  margin-right: 10%;
+  margin-left: 10%;
+  border: 22px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #e4fff;
+  font-size: 22px;
+}
+
+h1 {
+  top: 0;
+  color: Green;
+  height: 70px;
+}
+
+.btn {
+  font-family: Geneva;
+  font-style: italic;
+}
